@@ -42,7 +42,7 @@ if (isset($_POST['nombre'])) {
 <head>
     <meta charset="UTF-8">
     <title>Ejercicio 1</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="contenedor">
